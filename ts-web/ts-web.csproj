@@ -31,9 +31,9 @@
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="results.ts" />
+    <TypeScriptCompile Include="ts\results.ts" />
     <TypeScriptCompile Include="lib\typings\jasmine\jasmine.d.ts" />
-    <TypeScriptCompile Include="tests.ts" />
+    <TypeScriptCompile Include="ts\tests.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="foo\results.json" />

@@ -1,4 +1,4 @@
-﻿/// <reference path="lib/typings/jasmine/jasmine.d.ts" />
+﻿/// <reference path="../lib/typings/jasmine/jasmine.d.ts" />
 /// <reference path="results.ts" />
 
 describe("Result tests",() => {
